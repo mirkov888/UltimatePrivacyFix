@@ -1,0 +1,6 @@
+id=ultimate_privacy
+name=Ultimate Privacy
+version=0.2.0
+versionCode=20
+author=OpenAI
+description=Maximum privacy helper for KernelSU-Next: sensor privacy controls and safe status checks
